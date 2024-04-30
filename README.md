@@ -49,8 +49,8 @@ Neste trabalho prático, você irá aprender a implementar um sistema de autenti
 
 ## Entrega
 
-- O trabalho deve ser entregue em formato Markdown, contendo todas as seções descritas acima.
-- Envie o arquivo Markdown para o professor ou plataforma de entrega designada antes da data limite especificada.
+- O trabalho deve ser entregue em formato repositório git com um Markdown, contendo todas as seções descritas acima.
+- Envie o link do repositório no formulário https://forms.gle/Usr8or91EqtDRRyb8
 
 ## Considerações Finais
 
